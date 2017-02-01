@@ -1,0 +1,4 @@
+#Wed Feb 01 18:08:13 ICT 2017
+base.0=C\:\\Users\\vu_hien\\Desktop\\androidapp\\AndroidFileExplorer-master\\GetDirectory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\vu_hien\\Desktop\\androidapp\\AndroidFileExplorer-master\\GetDirectory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vu_hien\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\vu_hien\Desktop\androidapp\AndroidFileExplorer-master\GetDirectory\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1_eb4ad7402a362b6f923d67f0f2e32a6a45d8eeff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vu_hien\Desktop\androidapp\AndroidFileExplorer-master\GetDirectory\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\vu_hien\Desktop\androidapp\AndroidFileExplorer-master\GetDirectory\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.1_1e706ac4033a3268cd99e9de93be4166e208c117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vu_hien\Desktop\androidapp\AndroidFileExplorer-master\GetDirectory\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\vu_hien\Desktop\androidapp\AndroidFileExplorer-master\GetDirectory\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.1_1c17360d69bf70d7811a50083090c52f37024d15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vu_hien\Desktop\androidapp\AndroidFileExplorer-master\GetDirectory\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\vu_hien\Desktop\androidapp\AndroidFileExplorer-master\GetDirectory\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1_15297090d5d6dccbd8507d172dd880d35d954a95.jar" />
+    </item>
+
+</items>
