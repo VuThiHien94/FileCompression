@@ -1,5 +1,13 @@
 [
     {
+        "merged": "C:\\Users\\vu_hien\\Desktop\\FileCompression\\GetDirectory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_storage.png",
+        "source": "C:\\Users\\vu_hien\\Desktop\\FileCompression\\GetDirectory\\app\\src\\main\\res\\drawable-hdpi\\ic_storage.png"
+    },
+    {
+        "merged": "C:\\Users\\vu_hien\\Desktop\\FileCompression\\GetDirectory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_directory.png",
+        "source": "C:\\Users\\vu_hien\\Desktop\\FileCompression\\GetDirectory\\app\\src\\main\\res\\drawable-hdpi\\ic_directory.png"
+    },
+    {
         "merged": "C:\\Users\\vu_hien\\Desktop\\androidapp\\AndroidFileExplorer-master\\GetDirectory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\vu_hien\\Desktop\\androidapp\\AndroidFileExplorer-master\\GetDirectory\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
@@ -8,11 +16,19 @@
         "source": "C:\\Users\\vu_hien\\Desktop\\androidapp\\AndroidFileExplorer-master\\GetDirectory\\app\\src\\main\\res\\drawable-hdpi\\ic_storage.png"
     },
     {
+        "merged": "C:\\Users\\vu_hien\\Desktop\\FileCompression\\GetDirectory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\vu_hien\\Desktop\\FileCompression\\GetDirectory\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\vu_hien\\Desktop\\androidapp\\AndroidFileExplorer-master\\GetDirectory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_directory.png",
         "source": "C:\\Users\\vu_hien\\Desktop\\androidapp\\AndroidFileExplorer-master\\GetDirectory\\app\\src\\main\\res\\drawable-hdpi\\ic_directory.png"
     },
     {
         "merged": "C:\\Users\\vu_hien\\Desktop\\androidapp\\AndroidFileExplorer-master\\GetDirectory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_external_storage.png",
         "source": "C:\\Users\\vu_hien\\Desktop\\androidapp\\AndroidFileExplorer-master\\GetDirectory\\app\\src\\main\\res\\drawable-hdpi\\ic_external_storage.png"
+    },
+    {
+        "merged": "C:\\Users\\vu_hien\\Desktop\\FileCompression\\GetDirectory\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_external_storage.png",
+        "source": "C:\\Users\\vu_hien\\Desktop\\FileCompression\\GetDirectory\\app\\src\\main\\res\\drawable-hdpi\\ic_external_storage.png"
     }
 ]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="title_activity_main">DHuffman Coding</string>
+    <string name="title_activity_fileChooser">File Chooser</string>
+</resources>
